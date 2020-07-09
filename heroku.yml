@@ -4,7 +4,7 @@ setup:
       as: DATABASE
   config:
     BUILD_WITH_GEO_LIBRARIES: '1'
-    DISABLE_COLLECTSTATIC: '1'
+
     LD_LIBRARY_PATH: /app/lib
 build:
   packages:
