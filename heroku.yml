@@ -2,7 +2,7 @@ setup:
   addons:
     - plan: 'heroku-postgresql:hobby-dev'
       as: DATABASE
-  config:
+  config: {}
     BUILD_WITH_GEO_LIBRARIES: '1'
     DISABLE_COLLECTSTATIC: '1'
     LD_LIBRARY_PATH: /app/lib
