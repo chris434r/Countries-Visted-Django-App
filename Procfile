@@ -1,1 +1,1 @@
-web: gunicorn CountriesVisted.wsgi
+web: gunicorn my-countries-visted.wsgi
