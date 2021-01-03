@@ -80,7 +80,7 @@ DATABASES = {
         'NAME': 'postgres',
         'ENGINE': 'django.contrib.gis.db.backends.postgis',
         'USER': 'postgres',
-        'PASSWORD': 'New2!!CRJ',
+        'PASSWORD': '',
         'HOST': 'db-main-postgres.cmitxptypxgh.eu-west-2.rds.amazonaws.com',
         'PORT': '5432',
     },
