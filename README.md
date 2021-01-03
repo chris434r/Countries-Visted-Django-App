@@ -6,4 +6,5 @@ Goal is to replicate scratch map posters - which are a popular way of showing wh
 
 In this app the user can click on the map or search for the country in a search box.
 
-On selecting the country, the corresponding flag is shown on a side panel, which is using the Country Flags API: https://www.countryflags.io/
+On selecting the country, the country visted is displayed in green symbology and the corresponding flag is shown on a side panel, which is using the Country Flags API: https://www.countryflags.io/
+
