@@ -6,7 +6,7 @@ chardet==3.0.4
 cryptography==2.9.2
 Deprecated==1.2.9
 distlib==0.3.0
-Django==3.0.7
+Django==3.1.6
 django-geojson==3.0.0
 django-leaflet==0.26.0
 filelock==3.0.12
